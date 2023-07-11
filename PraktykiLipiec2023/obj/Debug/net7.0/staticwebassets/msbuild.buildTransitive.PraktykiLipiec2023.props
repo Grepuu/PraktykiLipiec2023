@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PraktykiLipiec2023.props" />
+</Project>
